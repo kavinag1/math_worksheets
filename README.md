@@ -11,9 +11,8 @@ Sequences_and_Series/
 ├── WORKSHEET_4__GEOMETRIC_SERIES__AA.docx
 ├── WORKSHEET__GEOMETRIC_SEQUENCE__SEPT_25.docx
 ├── WORKSHET_5_APPLICATIONS_OF_SEQUNECES_AND_SERIES.docx
-└── Worksheet_on_sequences_logs_exponents/   ← question + answers pair
-    ├── Worksheet_on_sequnces_and_logarithms_and_exponents_AA.docx
-    └── Worksheet_on_sequnces_and_logarithms_and_exponents_AA_with_ANSWERS.docx
+├── Worksheet_on_sequnces_and_logarithms_and_exponents_AA.docx
+└── Worksheet_on_sequnces_and_logarithms_and_exponents_AA_with_ANSWERS.docx
 
 Logarithms_and_Exponents/
 ├── WORKSHEET_1__LOGARITHMS_AND_EXPONENTS.docx
